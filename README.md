@@ -125,11 +125,8 @@ For full details, see `FinalReport.pdf`.
 
 Course project by:
 
-- Shaotong Sun
 - Sai Sharan
+- Shaotong Sun
 - Yiqi Li
 - Bole Yi
 
-## License
-
-This repository is intended for academic and educational use.
